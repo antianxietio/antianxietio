@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Developer+%7C+AI+%26+AGI+Explorer;Quantum+Computing+Enthusiast+%7C+Automation+Architect;Building+Tomorrow's+Intelligence+Today" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Developer+%7C+AI+%26+AGI+Explorer;Quantum+Computing+Enthusiast;Building+Tomorrow's+Intelligence+Today" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -138,7 +138,7 @@
 
 *#AI #AGI #QuantumComputing #FullStack #Innovation*
 
-<img src="https://visitcount.itsvg.in/api?id=antianxietio&label=Profile%20Visits&color=12&icon=5" />
+<img src="https://komarev.com/ghpvc/?username=antianxietio&label=Profile%20Views&color=00f5ff&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
