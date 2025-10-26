@@ -60,7 +60,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -71,7 +71,7 @@
 | **TrustButton** | Global payment gateway for freelancers integrating Razorpay Route with real-time fee calculation |
 | **Carbon Credit DBMS** | Blockchain-inspired full-stack platform for regulating, verifying & trading carbon credits |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
 
 ## 📊 GitHub Analytics
 
@@ -88,7 +88,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antianxietio&theme=tokyonight" width="100%"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
 
 ## 🏆 Achievements
 
@@ -96,7 +96,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=antianxietio&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" width="100%"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
 
 ## ✍️ Developer's Philosophy
 
@@ -104,13 +104,13 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
 
 ## 🧠 Fun Fact
 
 > **"Quantum computers don't just compute faster — they explore probability spaces classical machines can't even imagine."**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
 
 ## 🌐 Let's Connect
 
@@ -130,7 +130,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
 
 <div align="center">
   
