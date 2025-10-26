@@ -1,7 +1,8 @@
 <!-- 🪐 UPPILI LB | Adaptive & Intelligent GitHub README -->
 
+<!-- ====== BANNER ====== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Uppili%20LB&fontSize=60&fontAlignY=35&desc=Architecting%20Intelligence%20Across%20Dimensions&descAlignY=55&fontColor=fff&animation=fadeIn" width="100%" alt="header-banner"/>
+  <img src="https://i.ibb.co/9GvGxCg/Uppili-LB-Banner.png" alt="Uppili LB Banner" width="100%"/>
 </div>
 
 <h2 align="center">💫 Full-Stack Developer | AI & Quantum Computing Enthusiast | AGI Architect</h2>
@@ -20,6 +21,7 @@
 
 ---
 
+<!-- ====== ABOUT ME ====== -->
 ### 🧠 About Me
 
 > *“Building bridges between human intuition and machine cognition.”*  
@@ -30,28 +32,114 @@
 > - 🌐 **Scalable Full-Stack Architectures**  
 > - 🧠 **AGI Research & Experiments**  
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
 ---
 
+<!-- ====== TYPING ANIMATION ====== -->
 ### ⚡ Live Typing Intro
 
-```js
-const uppili = {
-  role: "Full-Stack Engineer & AI Researcher",
-  focus: ["Quantum Computing", "AI Systems", "Next.js Automation"],
-  motto: "Crafting systems that think, learn, and evolve.",
-};
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Automation+Engineer;Quantum+Computing+Explorer;AGI+Architect;Building+the+future+one+line+at+a+time" alt="Typing SVG"/> </div>
-🧩 Tech Stack (Animated)
-<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,fastapi,nodejs,mongodb,mysql,tailwind,vercel,bun,git,figma,cloudflare&theme=dark" /> </div>
-🚀 Featured Projects
-🧠 Project	Description
-AI Automation Suite	A suite of AI-driven tools automating workflows using FastAPI, Next.js, and agentic logic.
-Quantum RL Lab	Research on Quantum Reinforcement Learning for game strategies and adaptive systems.
-TrustButton	A global payment gateway built for freelancers, integrating Razorpay Route & real-time fee logic.
-Carbon Credit DBMS	Blockchain-inspired full-stack web app for regulating, verifying & trading carbon credits.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Automation+Engineer;Quantum+Computing+Explorer;AGI+Architect;Building+the+future+one+line+at+a+time" alt="Typing SVG"/>
+</div>
 
-📈 Stats & Insights
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=antianxietio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=79ff97" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=antianxietio&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFFF&fire=FF007F" height="160" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=antianxietio&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&line=00FFFF&point=79ff97" width="95%" alt="activity-graph"/> </div>
-🌐 Connect & Collaborate
-<p align="center"> <a href="https://linkedin.com/in/lb-uppili-602024299"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" /> </a> <a href="https://instagram.com/antianxietio_2005"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="instagram" /> </a> <a href="mailto:uppilibalaji2005@gmail.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="gmail" /> </a> </p>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </div> ```
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</div>
+
+---
+
+<!-- ====== TECH STACK ====== -->
+### 🧩 Tech Stack (Animated)
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,fastapi,nodejs,mongodb,mysql,tailwind,vercel,bun,git,figma,cloudflare&theme=dark" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</div>
+
+---
+
+<!-- ====== FEATURED PROJECTS ====== -->
+### 🚀 Featured Projects
+
+| 🧠 Project | Description |
+|:----------:|:------------|
+| **AI Automation Suite** | AI-driven workflow automation tools using FastAPI, Next.js, and agentic logic. |
+| **Quantum RL Lab** | Quantum Reinforcement Learning experiments for adaptive systems and games. |
+| **TrustButton** | Freelancer payment gateway integrating Razorpay Route & dynamic fee logic. |
+| **Carbon Credit DBMS** | Full-stack blockchain-inspired web app for carbon credit regulation & trading. |
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</div>
+
+---
+
+<!-- ====== STATS & INSIGHTS ====== -->
+### 📈 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=antianxietio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=79ff97" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antianxietio&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFFF&fire=FF007F" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antianxietio&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&line=00FFFF&point=79ff97" width="95%" alt="activity-graph"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</div>
+
+---
+
+<!-- ====== CONNECT & COLLABORATE ====== -->
+### 🌐 Connect & Collaborate
+
+<p align="center">
+  <a href="https://linkedin.com/in/lb-uppili-602024299">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" />
+  </a>
+  <a href="https://instagram.com/antianxietio_2005">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="instagram" />
+  </a>
+  <a href="mailto:uppilibalaji2005@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="gmail" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</div>
+
+---
+
+### ✨ Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
+</p>
+
+---
+
+### 🧠 Fun Fact
+
+> *“Quantum computers don’t just compute — they **explore probabilities in parallel realities**.”*
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</div>
+
+---
+
+<h3 align="center">⚡ “Building the bridge between code and consciousness” ⚡</h3>
+<p align="center"><i>#AI #AGI #Quantum #FullStack #Innovation</i></p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=antianxietio&label=Profile%20Visits&icon=5&color=12"/>
+</p>
