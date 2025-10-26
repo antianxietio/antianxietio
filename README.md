@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Developer+%7C+AI+%26+AGI+Explorer;Quantum+Computing+Enthusiast;Building+Tomorrow's+Intelligence+Today" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Developer+%7C+AI+%26+AGI+Explorer;Quantum+Computing+Enthusiast+%7C+Automation+Architect;Building+Tomorrow's+Intelligence+Today" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -76,16 +76,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antianxietio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00C9A7&text_color=ffffff" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antianxietio&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=9200FF&currStreakLabel=00C9A7" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=antianxietio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00C9A7&text_color=ffffff" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antianxietio&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=9200FF&currStreakLabel=00C9A7" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antianxietio&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=00F5FF&point=00C9A7&area=true&area_color=9200FF" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antianxietio&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=00F5FF&point=00C9A7&area=true&area_color=9200FF" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antianxietio&theme=tokyonight" width="90%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antianxietio&theme=tokyonight" width="100%"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
@@ -93,7 +93,7 @@
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=antianxietio&theme=algolia&no-frame=true&no-bg=false&margin-w=8&column=7" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=antianxietio&theme=algolia&no-frame=true&no-bg=false&margin-w=8&column=7" width="100%"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
