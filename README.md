@@ -36,7 +36,7 @@
 
 ⚡ Constantly experimenting with **AI × Web3 × Automation** — turning abstract ideas into functional realities
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
 
 ## ⚙️ Tech Arsenal
 
@@ -142,4 +142,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:00F5FF,100:9200FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:00F5FF,100:9200FF&height=120&section=footer" width="100%"/>
