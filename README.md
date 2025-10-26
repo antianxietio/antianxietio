@@ -138,7 +138,7 @@
 
 *#AI #AGI #QuantumComputing #FullStack #Innovation*
 
-<img src="https://visitcount.itsvg.in/api?id=antianxietio&label=Profile%20Visits&color=00F5FF&icon=5&pretty=true" />
+<img src="https://visitcount.itsvg.in/api?id=antianxietio&label=Profile%20Visits&color=12&icon=5" />
 
 </div>
 
