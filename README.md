@@ -90,10 +90,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
 
-## 🏆 Achievements
+## 🏆 Achievements & Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=antianxietio&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" width="100%"/>
+  
+![Commits](https://img.shields.io/badge/Total%20Commits-1000%2B-00F5FF?style=for-the-badge&logo=github&logoColor=white)
+![Repositories](https://img.shields.io/badge/Public%20Repos-20%2B-00C9A7?style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/antianxietio?style=for-the-badge&logo=github&label=Followers&color=9200FF)
+![Stars](https://img.shields.io/github/stars/antianxietio?style=for-the-badge&logo=github&label=Total%20Stars&color=00F5FF)
+
+**🎯 Focus Areas:** AI/ML • Quantum Computing • Full-Stack Development • Automation Systems
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
