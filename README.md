@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
 
 ## 💫 About Me
 
@@ -93,7 +93,7 @@
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=antianxietio&theme=algolia&no-frame=true&no-bg=false&margin-w=8&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=antianxietio&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" width="100%"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
